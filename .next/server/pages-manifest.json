@@ -1,0 +1,9 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/weather/[city]": "pages/api/weather/[city].js",
+  "/gui": "pages/gui.html",
+  "/": "pages/index.js",
+  "/_error": "pages/_error.js"
+}
